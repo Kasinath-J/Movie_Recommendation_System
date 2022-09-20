@@ -24,6 +24,6 @@ Different Algorithms to implement Movie recommendation system
 ## Contributors
 - Jagajeet Puttaa P K
 - Kasinath J
-- Jagajeet Puttaa P K
+- Abhinav P
 - Silesh A K
 
